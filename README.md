@@ -7,10 +7,13 @@ Elements which will be removed, include:
 -Div-containers for ads  
 -In-video ad-frames  
 
-[**Subscribe to:** *Dinofied Streaming Filter*](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/dinosw/dinofied-filters/Filters/streaming.txt&title=Dinofied%20Streaming%20Filter%2B)  
+Subscribe to this filter by addings this link to your 3rd-party filter list:  
+https://raw.githubusercontent.com/dinosw/dinofied-filters/Filters/streaming.txt
+
 ___
 
-
+[//]: # ([**Subscribe to:** *Dinofied Streaming Filter*])
+[//]: # (https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/dinosw/dinofied-filters/Filters/streaming.txt&title=Dinofied%20Streaming%20Filter%2B)
 
 [//]: # ([Dinofied Streaming Filter](https://raw.githubusercontent.com/dinosw/dinofied-filters/Filters/streaming.txt)  
 
