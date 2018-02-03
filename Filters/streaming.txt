@@ -1,0 +1,12 @@
+! Removes various elements from streaming-sites which other filters do not remove.
+! Elements such as these will be removed:
+! -div-containers for ads
+! -in-video ad-frames
+! PS. remember, every line that starts with !, are just comments ;-)
+
+! --------------- global ---------------
+*.*###jwa
+
+! --------------- 9anime ---------------
+9anime.*##div.abmsg
+
