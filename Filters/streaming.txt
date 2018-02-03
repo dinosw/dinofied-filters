@@ -4,10 +4,13 @@
 ! Homepage: https://github.com/dinosw/dinofied-filters
 ! Support: https://github.com/dinosw/dinofied-filters/issues
 ! Download: https://github.com/dinosw/dinofied-filters/master/Filters/streaming.txt
-
-! --------------- global ---------------
-*.*###jwa
+! #################################################################################
 
 ! --------------- 9anime ---------------
 9anime.*##div.abmsg
+9anime.*###jwa
+
+! --------------- fmovies/bmovies ---------------
+fmovies.*###jwa
+bmovies.*###jwa
 
