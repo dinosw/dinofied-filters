@@ -8,7 +8,10 @@ Elements which will be removed, include:
 -In-video ad-frames  
 
 Subscribe to this filter by addings this link to your 3rd-party filter list:  
-https://raw.githubusercontent.com/dinosw/dinofied-filters/master/Filters/streaming.txt
+https://raw.githubusercontent.com/dinosw/dinofied-filters/master/Filters/streaming.txt  
+
+It will for instance remove the indicated elements on 9anime (*the video ad-frame is removed for the MyCloud video source*)
+![](https://i.imgur.com/QnKkoE4.png)
 
 ___
 
