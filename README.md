@@ -15,6 +15,9 @@ It will for instance remove the indicated elements on 9anime (*the video ad-fram
 
 ___
 
+### Adding a custom filter to uBlock Origin/Nano Adblocker  
+![](https://i.imgur.com/AcxApKv.png)
+
 [//]: # ([**Subscribe to:** *Dinofied Streaming Filter*])
 [//]: # (https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/dinosw/dinofied-filters/master/Filters/streaming.txt&title=Dinofied%20Streaming%20Filter%2B)
 
