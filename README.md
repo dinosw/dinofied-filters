@@ -8,15 +8,15 @@ Elements which will be removed, include:
 -In-video ad-frames  
 
 Subscribe to this filter by addings this link to your 3rd-party filter list:  
-https://raw.githubusercontent.com/dinosw/dinofied-filters/Filters/streaming.txt
+https://raw.githubusercontent.com/dinosw/dinofied-filters/master/Filters/streaming.txt
 
 ___
 
 [//]: # ([**Subscribe to:** *Dinofied Streaming Filter*])
-[//]: # (https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/dinosw/dinofied-filters/Filters/streaming.txt&title=Dinofied%20Streaming%20Filter%2B)
+[//]: # (https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/dinosw/dinofied-filters/master/Filters/streaming.txt&title=Dinofied%20Streaming%20Filter%2B)
 
-[//]: # ([Dinofied Streaming Filter](https://raw.githubusercontent.com/dinosw/dinofied-filters/Filters/streaming.txt)  
+[//]: # ([Dinofied Streaming Filter](https://raw.githubusercontent.com/dinosw/dinofied-filters/master/Filters/streaming.txt)  
 
-[//]: # ([Subscribe to: Dinofied Streaming Filter](abp://subscribe/?location=https://raw.githubusercontent.com/dinosw/dinofied-filters/Filters/streaming.txt)
+[//]: # ([Subscribe to: Dinofied Streaming Filter](abp://subscribe/?location=https://raw.githubusercontent.com/dinosw/dinofied-filters/master/Filters/streaming.txt)
 
-[//]: # (<a href="abp:subscribe?location=https://raw.githubusercontent.com/dinosw/dinofied-filters/Filters/streaming.txt">Dinofied Streaming Filter</a>)  
+[//]: # (<a href="abp:subscribe?location=https://raw.githubusercontent.com/dinosw/dinofied-filters/master/Filters/streaming.txt">Dinofied Streaming Filter</a>)  
