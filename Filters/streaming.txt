@@ -1,8 +1,9 @@
-! Removes various elements from streaming-sites which other filters do not remove.
-! Elements such as these will be removed:
-! -div-containers for ads
-! -in-video ad-frames
-! PS. remember, every line that starts with !, are just comments ;-)
+! Title: Dinofied Streaming Filter
+! Description: Removes various elements from streaming sites, which other filters do not remove.
+! Author: dinosw
+! Homepage: https://github.com/dinosw/dinofied-filters
+! Support: https://github.com/dinosw/dinofied-filters/issues
+! Download: https://github.com/dinosw/dinofied-filters/master/Filters/streaming.txt
 
 ! --------------- global ---------------
 *.*###jwa
