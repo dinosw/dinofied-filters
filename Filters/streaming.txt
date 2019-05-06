@@ -12,5 +12,6 @@
 
 ! --------------- fmovies/bmovies ---------------
 fmovies.*###jwa
+ffmovies.*###jwa
 bmovies.*###jwa
 
